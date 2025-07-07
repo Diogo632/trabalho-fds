@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Diogo Albuquerque</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Diogo Albuquerque Da Silva</h1>
+
+    <p>
+        Meu nome é Diogo, tenho 27 anos e moro em Guarulhos. Sou apaixonado por leitura, música e tecnologia. 
+        Busco sempre aprender coisas novas e expandir meus horizontes através do conhecimento.
+    </p>
+
+    <ul>
+        <li>Ler</li>
+        <li>Tocar violão</li>
+        <li>Jogar</li>
+    </ul>
+
+    <img src="https://br.freepik.com/imagem-ia-premium/musica-lofi-sincera-com-violoes-cantando-e-cordas-criadas-com-ia-generativa_46541039.htm" alt="Tocando violão">
+
+    <table>
+        <tr>
+            <td>Canadá</td>
+            <td><img src="https://www.telegraph.co.uk/content/dam/travel/2022/03/15/TELEMMGLPICT000289052794_trans_NvBQzQNjv4BqOvex5L1sT8bEkaFST1Y4G0J8Rk2V-SYbIhyddn8T3FY.jpeg" alt="Canadá"></td>
+        </tr>
+        <tr>
+            <td>Suíça</td>
+            <td><img src="https://www.eurodicas.com.br/wp-content/uploads/2023/01/suica-paisagem.jpg" alt="Suíça"></td>
+        </tr>
+        <tr>
+            <td>Estados Unidos</td>
+            <td><img src="https://www.vaidepromo.com.br/blog/wp-content/uploads/2021/07/estatua-da-liberdade.jpg" alt="EUA"></td>
+        </tr>
+    </table>
+
+    <a href="https://open.spotify.com/intl-pt" target="_blank">Visite meu site favorito: Spotify</a>
+
+    <br><br>
+    <button onclick="mostrarMensagem()">Clique para ver uma mensagem!</button>
+    <p id="mensagem"></p>
+
+    <script src="script.js"></script>
+</body>
+</html>
